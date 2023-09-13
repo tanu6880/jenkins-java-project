@@ -4,11 +4,8 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>about page</title>
+<title>Insert title here</title>
 </head>
 <body>
-<b>Hii Tanu Saini</b>
-    <h1>Welcome</h1>
-    <a href="tanu.jsp">About page</a>
-</body>
+<h1>Again Welcome !</h1>
 </html>
